@@ -53,7 +53,7 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ezambomsantana/campeonato-ci:${{ github.sha }}
+        tags: gubscruz/campeonato-ci:${{ github.sha }}
 
 
 
